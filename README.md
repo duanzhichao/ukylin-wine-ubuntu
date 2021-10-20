@@ -19,5 +19,8 @@ sudo dpkg -i ./ukylin-wine_70.6.3.25_amd64.deb
 ```
 > 接下来可以在relaese页面下载想要使用的应用,使用sudo dpkg -i ./安装包文件名 安装拉～
 
-## 三、感谢
+## 三、Relaese页面软件说明
+|————
+
+## 四、感谢
 (wszqkzqk/deepin-wine-ubuntu)[https://github.com/duanzhichao/deepin-wine-ubuntu/]
