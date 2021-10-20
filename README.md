@@ -40,4 +40,4 @@ sudo dpkg -i ./ukylin-wine_70.6.3.25_amd64.deb
 18. [瞩目(不知道是什么玩意)](https://github.com/duanzhichao/ukylin-wine-ubuntu/releases/download/%E8%BD%AF%E4%BB%B6/zhumu_2.5.361956.0302_amd64.deb)
 
 ## 四、感谢
-(wszqkzqk/deepin-wine-ubuntu)[https://github.com/duanzhichao/deepin-wine-ubuntu/]
+[wszqkzqk/deepin-wine-ubuntu](https://github.com/duanzhichao/deepin-wine-ubuntu/)
