@@ -9,10 +9,8 @@
 > 仅在ubuntu20.04上测试过，不保证在其他系统上可用
 
 ## 二、使用介绍
-> 取得本项目到本地
-```
-git clone https://github.com/duanzhichao/ukylin-wine-ubuntu.git
-```
+> 下载ukylin wine到本地
+[ukylin wine](https://github.com/duanzhichao/ukylin-wine-ubuntu/releases/download/%E8%BD%AF%E4%BB%B6/ukylin-wine_70.6.3.25_amd64.deb)
 > 安装ukylin wine
 ```
 sudo dpkg -i ./ukylin-wine_70.6.3.25_amd64.deb
