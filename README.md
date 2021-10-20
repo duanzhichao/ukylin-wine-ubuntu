@@ -6,7 +6,7 @@
 ## 一、项目介绍
 > ukylin-wine 环境的 Ubuntu 可安装版本
 
-> 仅在ubuntu20.04和ubuntu16.04上测试过，不保证在其他系统上可用
+> 仅在ubuntu20.04上测试过，不保证在其他系统上可用
 
 ## 二、使用介绍
 > 下载ukylin wine到本地
