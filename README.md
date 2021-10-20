@@ -19,7 +19,7 @@ sudo dpkg -i ./ukylin-wine_70.6.3.25_amd64.deb
 ```
 > 接下来可以在release页面下载想要使用的应用,使用sudo dpkg -i ./安装包文件名 安装拉～
 
-## 三、Release页面软件说明
+## 三、Release页面软件下载链接
 1. [360压缩](https://github.com/duanzhichao/ukylin-wine-ubuntu/releases/download/%E8%BD%AF%E4%BB%B6/360zip_1.0.0.1010_amd64.deb)
 2. [百度网盘](https://github.com/duanzhichao/ukylin-wine-ubuntu/releases/download/%E8%BD%AF%E4%BB%B6/baidunetdisk_3.5.0_amd64.deb)
 3. [360浏览器(真的有人会用吗？)](https://github.com/duanzhichao/ukylin-wine-ubuntu/releases/download/%E8%BD%AF%E4%BB%B6/browser360-cn-stable_12.2.1070.0-1_amd64.deb)
@@ -33,6 +33,11 @@ sudo dpkg -i ./ukylin-wine_70.6.3.25_amd64.deb
 11. [QQ](https://github.com/duanzhichao/ukylin-wine-ubuntu/releases/download/%E8%BD%AF%E4%BB%B6/ukylin-qq_1.0_amd64.deb)
 12. [腾讯会议](https://github.com/duanzhichao/ukylin-wine-ubuntu/releases/download/%E8%BD%AF%E4%BB%B6/ukylin-TencentMeeting_1.0_amd64.deb)
 13. [微信](https://github.com/duanzhichao/ukylin-wine-ubuntu/releases/download/%E8%BD%AF%E4%BB%B6/ukylin-wechat_3.0.0_amd64.deb)
+14. [企业微信](https://github.com/duanzhichao/ukylin-wine-ubuntu/releases/download/%E8%BD%AF%E4%BB%B6/wxwork_1.0_amd64.deb)
+15. [喧喧(不知道是什么玩意)](https://github.com/duanzhichao/ukylin-wine-ubuntu/releases/download/%E8%BD%AF%E4%BB%B6/xuanxuan_3.3_amd64.deb)
+16. [有到词典](https://github.com/duanzhichao/ukylin-wine-ubuntu/releases/download/%E8%BD%AF%E4%BB%B6/youdao-dict_6.0.0-0.ubuntu_amd64.deb)
+17. [优酷](https://github.com/duanzhichao/ukylin-wine-ubuntu/releases/download/%E8%BD%AF%E4%BB%B6/youku-app_1.0.0_amd64.deb)
+18. [瞩目(不知道是什么玩意)](https://github.com/duanzhichao/ukylin-wine-ubuntu/releases/download/%E8%BD%AF%E4%BB%B6/zhumu_2.5.361956.0302_amd64.deb)
 
 ## 四、感谢
 (wszqkzqk/deepin-wine-ubuntu)[https://github.com/duanzhichao/deepin-wine-ubuntu/]
