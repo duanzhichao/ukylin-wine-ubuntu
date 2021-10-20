@@ -10,7 +10,8 @@
 
 ## 二、使用介绍
 > 下载ukylin wine到本地
-[ukylin wine](https://github.com/duanzhichao/ukylin-wine-ubuntu/releases/download/%E8%BD%AF%E4%BB%B6/ukylin-wine_70.6.3.25_amd64.deb)
+
+[点击下载ukylin-wine](https://github.com/duanzhichao/ukylin-wine-ubuntu/releases/download/%E8%BD%AF%E4%BB%B6/ukylin-wine_70.6.3.25_amd64.deb)
 > 安装ukylin wine
 ```
 sudo dpkg -i ./ukylin-wine_70.6.3.25_amd64.deb
