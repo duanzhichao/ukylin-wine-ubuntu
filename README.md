@@ -6,7 +6,7 @@
 ## 一、项目介绍
 > ukylin-wine 环境的 Ubuntu 可安装版本
 
-> 仅在ubuntu20.04上测试过，不保证在其他系统上可用
+> 仅在ubuntu20.04和ubuntu16.04上测试过，不保证在其他系统上可用
 
 ## 二、使用介绍
 > 下载ukylin wine到本地
@@ -33,10 +33,16 @@ sudo dpkg -i ./ukylin-wine_70.6.3.25_amd64.deb
 12. [腾讯会议](https://github.com/duanzhichao/ukylin-wine-ubuntu/releases/download/%E8%BD%AF%E4%BB%B6/ukylin-TencentMeeting_1.0_amd64.deb)
 13. [微信](https://github.com/duanzhichao/ukylin-wine-ubuntu/releases/download/%E8%BD%AF%E4%BB%B6/ukylin-wechat_3.0.0_amd64.deb)
 14. [企业微信](https://github.com/duanzhichao/ukylin-wine-ubuntu/releases/download/%E8%BD%AF%E4%BB%B6/wxwork_1.0_amd64.deb)
-15. [喧喧(不知道是什么玩意)](https://github.com/duanzhichao/ukylin-wine-ubuntu/releases/download/%E8%BD%AF%E4%BB%B6/xuanxuan_3.3_amd64.deb)
-16. [有到词典](https://github.com/duanzhichao/ukylin-wine-ubuntu/releases/download/%E8%BD%AF%E4%BB%B6/youdao-dict_6.0.0-0.ubuntu_amd64.deb)
-17. [优酷](https://github.com/duanzhichao/ukylin-wine-ubuntu/releases/download/%E8%BD%AF%E4%BB%B6/youku-app_1.0.0_amd64.deb)
-18. [瞩目(不知道是什么玩意)](https://github.com/duanzhichao/ukylin-wine-ubuntu/releases/download/%E8%BD%AF%E4%BB%B6/zhumu_2.5.361956.0302_amd64.deb)
+15. [有到词典](https://github.com/duanzhichao/ukylin-wine-ubuntu/releases/download/%E8%BD%AF%E4%BB%B6/youdao-dict_6.0.0-0.ubuntu_amd64.deb)
+16. [优酷](https://github.com/duanzhichao/ukylin-wine-ubuntu/releases/download/%E8%BD%AF%E4%BB%B6/youku-app_1.0.0_amd64.deb)
 
-## 四、感谢
+## 四、常见问题
+1. ubuntu16.04下无法使用托盘问题
+> 安装indicator-systemtray-unity,重启即可
+```
+sudo apt-add-repository ppa:fixnix/indicator-systemtray-unity
+sudo apt-get update
+sudo apt-get install indicator-systemtray-unity
+```
+## 五、感谢
 [wszqkzqk/deepin-wine-ubuntu](https://github.com/duanzhichao/deepin-wine-ubuntu/)
