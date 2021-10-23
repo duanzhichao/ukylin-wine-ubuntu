@@ -1,7 +1,7 @@
 # ukylin wine for Ubuntu
 
 ## 软件说明
-> 本项目灵感来自ubuntu ukylin的自带wine项目,但是ubuntu ukylin我用的不是很舒服,而且现在ubuntu ukylin20.04也不自带这些软件包，且软件商店不可下载。
+> 本项目灵感来自ubuntu ukylin的自带wine项目,但是ubuntu ukylin我用的不是很舒服,而且现在ubuntu ukylin20.04也不自带这些软件包，且软件商店不可下载，本项目优势为wine运行的软件不需解决字体，图片，以及文件选择问题。
 
 ## 一、项目介绍
 > ukylin-wine 环境的 Ubuntu 可安装版本
