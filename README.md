@@ -37,7 +37,10 @@ sudo dpkg -i ./ukylin-wine_70.6.3.25_amd64.deb
 16. [优酷](https://github.com/duanzhichao/ukylin-wine-ubuntu/releases/download/%E8%BD%AF%E4%BB%B6/youku-app_1.0.0_amd64.deb)
 
 ## 四、常见问题
-1. ubuntu16.04下无法使用托盘问题
+1. ubuntu20.04托盘问题
+> 安装TopIcons Plus, 重启
+[TopIcons Plus](https://extensions.gnome.org/extension/1031/topicons/)
+2. ubuntu16.04下无法使用托盘问题
 > 安装indicator-systemtray-unity,重启即可
 ```
 sudo apt-add-repository ppa:fixnix/indicator-systemtray-unity
@@ -45,4 +48,4 @@ sudo apt-get update
 sudo apt-get install indicator-systemtray-unity
 ```
 ## 五、感谢
-[wszqkzqk/deepin-wine-ubuntu](https://github.com/duanzhichao/deepin-wine-ubuntu/)
+[wszqkzqk/deepin-wine-ubuntu](https://github.com/wszqkzqk/deepin-wine-ubuntu/)
