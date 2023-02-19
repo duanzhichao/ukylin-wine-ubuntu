@@ -39,7 +39,9 @@ sudo dpkg -i ./ukylin-wine_70.6.3.25_amd64.deb
 ## 四、常见问题
 1. ubuntu20.04托盘问题
 > 安装TopIcons Plus, 重启
-[TopIcons Plus](https://extensions.gnome.org/extension/1031/topicons/)
+
+  [TopIcons Plus](https://extensions.gnome.org/extension/1031/topicons/)
+
 2. ubuntu16.04下无法使用托盘问题
 > 安装indicator-systemtray-unity,重启即可
 ```
