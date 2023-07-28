@@ -49,5 +49,10 @@ sudo apt-add-repository ppa:fixnix/indicator-systemtray-unity
 sudo apt-get update
 sudo apt-get install indicator-systemtray-unity
 ```
+3. 设置高分屏缩放
+```shell
+env WINEPREFIX="$HOME/.ukylin-wine/wechat" /usr/bin/ukylin-wine winecfg
+```
+
 ## 五、感谢
 [wszqkzqk/deepin-wine-ubuntu](https://github.com/wszqkzqk/deepin-wine-ubuntu/)
