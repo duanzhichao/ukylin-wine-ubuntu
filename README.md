@@ -41,7 +41,9 @@ sudo dpkg -i ./ukylin-wine_70.6.3.25_amd64.deb
 > 安装TopIcons Plus, 重启
 
   [TopIcons Plus](https://extensions.gnome.org/extension/1031/topicons/)
-
+```
+sudo apt install gnome-tweak-tool gnome-shell-extension-top-icons-plus
+```
 2. ubuntu16.04下无法使用托盘问题
 > 安装indicator-systemtray-unity,重启即可
 ```
